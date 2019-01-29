@@ -21,13 +21,13 @@ mod 'puppetlabs/hproxy'
 
 
 mod 'tomcat',
-  :git    => 'https://github.com/XvrMnts/puppet-module-tomcat.git',
+  :git    => 'https://github.com/XvrMnts/puppet-module-tomcat.git'
 #  :branch => 'docs_experiment'
 
 mod 'java',
-  :git    => 'https://github.com/XvrMnts/puppet-module-java.git',
+  :git    => 'https://github.com/XvrMnts/puppet-module-java.git'
 #  :branch => 'docs_experiment'
 
 mod 'base',
-  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
+  :git    => 'https://github.com/puppetlabs/puppetlabs-apache'
 #  :branch => 'docs_experiment'
