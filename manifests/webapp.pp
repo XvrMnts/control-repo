@@ -4,7 +4,7 @@ node puppet {
 
 }
 
-node node1,node2,node3 {
+node node1,node2 {
 
   include java::install
   include tomcat
