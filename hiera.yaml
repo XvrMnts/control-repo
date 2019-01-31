@@ -4,6 +4,7 @@ version: 5
 defaults:
   datadir: "hieradata"
 
+# production
 hierarchy:
   - name: 'Yaml backend'
     data_hash: yaml_data
